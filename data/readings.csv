@@ -1,4 +1,0 @@
-reading_id,household,device,device_utc,received_utc,value,calibration
-r1,h-1,d-1,2026-11-18T08:00:00Z,2026-11-18T08:00:02Z,0.81,c1
-r2,h-1,d-2,2026-11-18T08:00:00Z,2026-11-18T08:04:00Z,0.77,c2
-r3,h-2,d-3,2026-11-18T08:30:00Z,2026-11-18T08:30:01Z,0.12,c1

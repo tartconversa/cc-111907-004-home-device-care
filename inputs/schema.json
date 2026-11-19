@@ -1,0 +1,77 @@
+{
+  "households": {
+    "definition": "回访约束是住户决定的业务边界。",
+    "columns": {
+      "household": "家庭",
+      "contact_start": "UTC日内开始小时",
+      "contact_end": "UTC日内结束小时",
+      "daily_limit": "每日联系上限",
+      "region": "区域"
+    }
+  },
+  "devices": {
+    "definition": "校准与时钟偏移，corrected_value=raw*scale+offset；device_time 加 clock_minutes 为实际观察时间。",
+    "columns": {
+      "device": "设备",
+      "household": "家庭",
+      "metric": "指标",
+      "scale": "倍率",
+      "offset": "偏移",
+      "clock_minutes": "设备时钟修正",
+      "valid_from": "校准开始",
+      "valid_to": "校准结束"
+    }
+  },
+  "readings": {
+    "definition": "读数单位为无量纲活动指数，null 表示未知。",
+    "columns": {
+      "id": "读数标识",
+      "device": "设备",
+      "device_time": "设备时刻",
+      "received": "接收时刻",
+      "value": "原读数"
+    }
+  },
+  "outages": {
+    "definition": "家庭共同断网区间。",
+    "columns": {
+      "id": "中断",
+      "household": "家庭",
+      "start": "开始",
+      "end": "结束"
+    }
+  },
+  "consent": {
+    "definition": "授权分别限制分析、联系；只对对应范围适用。",
+    "columns": {
+      "id": "记录",
+      "household": "家庭",
+      "scope": "analysis/contact",
+      "effective": "生效",
+      "status": "active/revoked"
+    }
+  },
+  "policy": {
+    "definition": "同户同政策30分钟内属于一项生活事件；持续新高风险不能无限去重。",
+    "columns": {
+      "version": "版本",
+      "effective": "生效",
+      "metric": "指标",
+      "window_minutes": "窗口",
+      "min_samples": "最少有效点",
+      "lower": "低于该值需跟进",
+      "urgent_below": "紧急低值",
+      "followup_minutes": "普通时限",
+      "urgent_minutes": "紧急时限"
+    }
+  },
+  "staff": {
+    "definition": "单次联系耗时15分钟，不跨越可用结束时刻。",
+    "columns": {
+      "staff": "工作人员",
+      "regions": "可服务区域",
+      "start": "可用开始",
+      "end": "可用结束"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "C1",
+    "household": "F1",
+    "scope": "analysis",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "C2",
+    "household": "F1",
+    "scope": "contact",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "C3",
+    "household": "F2",
+    "scope": "analysis",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "C4",
+    "household": "F2",
+    "scope": "contact",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "C5",
+    "household": "F3",
+    "scope": "analysis",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "C6",
+    "household": "F3",
+    "scope": "contact",
+    "effective": "2026-10-20T00:00:00Z",
+    "status": "active"
+  }
+]

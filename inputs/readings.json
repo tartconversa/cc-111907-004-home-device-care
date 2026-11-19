@@ -1,0 +1,702 @@
+[
+  {
+    "id": "R0",
+    "device": "D1",
+    "device_time": "2026-11-16T08:00:00Z",
+    "received": "2026-11-16T08:10:00Z",
+    "value": null
+  },
+  {
+    "id": "R1",
+    "device": "D2",
+    "device_time": "2026-11-16T08:00:00Z",
+    "received": "2026-11-16T08:10:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R2",
+    "device": "D3",
+    "device_time": "2026-11-16T08:00:00Z",
+    "received": "2026-11-16T08:10:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R3",
+    "device": "D4",
+    "device_time": "2026-11-16T08:00:00Z",
+    "received": "2026-11-16T08:10:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R4",
+    "device": "D1",
+    "device_time": "2026-11-16T08:01:00Z",
+    "received": "2026-11-16T08:11:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R5",
+    "device": "D2",
+    "device_time": "2026-11-16T08:01:00Z",
+    "received": "2026-11-16T08:11:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R6",
+    "device": "D3",
+    "device_time": "2026-11-16T08:01:00Z",
+    "received": "2026-11-16T08:11:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R7",
+    "device": "D4",
+    "device_time": "2026-11-16T08:01:00Z",
+    "received": "2026-11-16T08:11:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R8",
+    "device": "D1",
+    "device_time": "2026-11-16T08:02:00Z",
+    "received": "2026-11-16T08:12:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R9",
+    "device": "D2",
+    "device_time": "2026-11-16T08:02:00Z",
+    "received": "2026-11-16T08:12:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R10",
+    "device": "D3",
+    "device_time": "2026-11-16T08:02:00Z",
+    "received": "2026-11-16T08:12:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R11",
+    "device": "D4",
+    "device_time": "2026-11-16T08:02:00Z",
+    "received": "2026-11-16T08:12:00Z",
+    "value": null
+  },
+  {
+    "id": "R12",
+    "device": "D1",
+    "device_time": "2026-11-16T08:03:00Z",
+    "received": "2026-11-16T08:13:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R13",
+    "device": "D2",
+    "device_time": "2026-11-16T08:03:00Z",
+    "received": "2026-11-16T08:13:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R14",
+    "device": "D3",
+    "device_time": "2026-11-16T08:03:00Z",
+    "received": "2026-11-16T08:13:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R15",
+    "device": "D4",
+    "device_time": "2026-11-16T08:03:00Z",
+    "received": "2026-11-16T08:13:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R16",
+    "device": "D1",
+    "device_time": "2026-11-16T08:04:00Z",
+    "received": "2026-11-16T08:14:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R17",
+    "device": "D2",
+    "device_time": "2026-11-16T08:04:00Z",
+    "received": "2026-11-16T08:14:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R18",
+    "device": "D3",
+    "device_time": "2026-11-16T08:04:00Z",
+    "received": "2026-11-16T08:14:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R19",
+    "device": "D4",
+    "device_time": "2026-11-16T08:04:00Z",
+    "received": "2026-11-16T08:14:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R20",
+    "device": "D1",
+    "device_time": "2026-11-16T08:05:00Z",
+    "received": "2026-11-16T08:15:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R21",
+    "device": "D2",
+    "device_time": "2026-11-16T08:05:00Z",
+    "received": "2026-11-16T08:15:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R22",
+    "device": "D3",
+    "device_time": "2026-11-16T08:05:00Z",
+    "received": "2026-11-16T08:15:00Z",
+    "value": null
+  },
+  {
+    "id": "R23",
+    "device": "D4",
+    "device_time": "2026-11-16T08:05:00Z",
+    "received": "2026-11-16T08:15:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R24",
+    "device": "D1",
+    "device_time": "2026-11-16T08:06:00Z",
+    "received": "2026-11-16T08:16:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R25",
+    "device": "D2",
+    "device_time": "2026-11-16T08:06:00Z",
+    "received": "2026-11-16T08:16:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R26",
+    "device": "D3",
+    "device_time": "2026-11-16T08:06:00Z",
+    "received": "2026-11-16T08:16:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R27",
+    "device": "D4",
+    "device_time": "2026-11-16T08:06:00Z",
+    "received": "2026-11-16T08:16:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R28",
+    "device": "D1",
+    "device_time": "2026-11-16T08:07:00Z",
+    "received": "2026-11-16T08:17:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R29",
+    "device": "D2",
+    "device_time": "2026-11-16T08:07:00Z",
+    "received": "2026-11-16T08:17:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R30",
+    "device": "D3",
+    "device_time": "2026-11-16T08:07:00Z",
+    "received": "2026-11-16T08:17:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R31",
+    "device": "D4",
+    "device_time": "2026-11-16T08:07:00Z",
+    "received": "2026-11-16T08:17:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R32",
+    "device": "D1",
+    "device_time": "2026-11-16T08:08:00Z",
+    "received": "2026-11-16T08:18:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R33",
+    "device": "D2",
+    "device_time": "2026-11-16T08:08:00Z",
+    "received": "2026-11-16T08:18:00Z",
+    "value": null
+  },
+  {
+    "id": "R34",
+    "device": "D3",
+    "device_time": "2026-11-16T08:08:00Z",
+    "received": "2026-11-16T08:18:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R35",
+    "device": "D4",
+    "device_time": "2026-11-16T08:08:00Z",
+    "received": "2026-11-16T08:18:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R36",
+    "device": "D1",
+    "device_time": "2026-11-16T08:09:00Z",
+    "received": "2026-11-16T08:19:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R37",
+    "device": "D2",
+    "device_time": "2026-11-16T08:09:00Z",
+    "received": "2026-11-16T08:19:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R38",
+    "device": "D3",
+    "device_time": "2026-11-16T08:09:00Z",
+    "received": "2026-11-16T08:19:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R39",
+    "device": "D4",
+    "device_time": "2026-11-16T08:09:00Z",
+    "received": "2026-11-16T08:19:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R40",
+    "device": "D1",
+    "device_time": "2026-11-16T08:10:00Z",
+    "received": "2026-11-16T08:20:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R41",
+    "device": "D2",
+    "device_time": "2026-11-16T08:10:00Z",
+    "received": "2026-11-16T08:20:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R42",
+    "device": "D3",
+    "device_time": "2026-11-16T08:10:00Z",
+    "received": "2026-11-16T08:20:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R43",
+    "device": "D4",
+    "device_time": "2026-11-16T08:10:00Z",
+    "received": "2026-11-16T08:20:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R44",
+    "device": "D1",
+    "device_time": "2026-11-16T08:11:00Z",
+    "received": "2026-11-16T08:21:00Z",
+    "value": null
+  },
+  {
+    "id": "R45",
+    "device": "D2",
+    "device_time": "2026-11-16T08:11:00Z",
+    "received": "2026-11-16T08:21:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R46",
+    "device": "D3",
+    "device_time": "2026-11-16T08:11:00Z",
+    "received": "2026-11-16T08:21:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R47",
+    "device": "D4",
+    "device_time": "2026-11-16T08:11:00Z",
+    "received": "2026-11-16T08:21:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R48",
+    "device": "D1",
+    "device_time": "2026-11-16T08:12:00Z",
+    "received": "2026-11-16T08:22:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R49",
+    "device": "D2",
+    "device_time": "2026-11-16T08:12:00Z",
+    "received": "2026-11-16T08:22:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R50",
+    "device": "D3",
+    "device_time": "2026-11-16T08:12:00Z",
+    "received": "2026-11-16T08:22:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R51",
+    "device": "D4",
+    "device_time": "2026-11-16T08:12:00Z",
+    "received": "2026-11-16T08:22:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R52",
+    "device": "D1",
+    "device_time": "2026-11-16T08:13:00Z",
+    "received": "2026-11-16T08:23:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R53",
+    "device": "D2",
+    "device_time": "2026-11-16T08:13:00Z",
+    "received": "2026-11-16T08:23:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R54",
+    "device": "D3",
+    "device_time": "2026-11-16T08:13:00Z",
+    "received": "2026-11-16T08:23:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R55",
+    "device": "D4",
+    "device_time": "2026-11-16T08:13:00Z",
+    "received": "2026-11-16T08:23:00Z",
+    "value": null
+  },
+  {
+    "id": "R56",
+    "device": "D1",
+    "device_time": "2026-11-16T08:14:00Z",
+    "received": "2026-11-16T08:24:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R57",
+    "device": "D2",
+    "device_time": "2026-11-16T08:14:00Z",
+    "received": "2026-11-16T08:24:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R58",
+    "device": "D3",
+    "device_time": "2026-11-16T08:14:00Z",
+    "received": "2026-11-16T08:24:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R59",
+    "device": "D4",
+    "device_time": "2026-11-16T08:14:00Z",
+    "received": "2026-11-16T08:24:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R60",
+    "device": "D1",
+    "device_time": "2026-11-16T08:15:00Z",
+    "received": "2026-11-16T08:25:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R61",
+    "device": "D2",
+    "device_time": "2026-11-16T08:15:00Z",
+    "received": "2026-11-16T08:25:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R62",
+    "device": "D3",
+    "device_time": "2026-11-16T08:15:00Z",
+    "received": "2026-11-16T08:25:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R63",
+    "device": "D4",
+    "device_time": "2026-11-16T08:15:00Z",
+    "received": "2026-11-16T08:25:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R64",
+    "device": "D1",
+    "device_time": "2026-11-16T08:16:00Z",
+    "received": "2026-11-16T08:26:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R65",
+    "device": "D2",
+    "device_time": "2026-11-16T08:16:00Z",
+    "received": "2026-11-16T08:26:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R66",
+    "device": "D3",
+    "device_time": "2026-11-16T08:16:00Z",
+    "received": "2026-11-16T08:26:00Z",
+    "value": null
+  },
+  {
+    "id": "R67",
+    "device": "D4",
+    "device_time": "2026-11-16T08:16:00Z",
+    "received": "2026-11-16T08:26:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R68",
+    "device": "D1",
+    "device_time": "2026-11-16T08:17:00Z",
+    "received": "2026-11-16T08:27:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R69",
+    "device": "D2",
+    "device_time": "2026-11-16T08:17:00Z",
+    "received": "2026-11-16T08:27:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R70",
+    "device": "D3",
+    "device_time": "2026-11-16T08:17:00Z",
+    "received": "2026-11-16T08:27:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R71",
+    "device": "D4",
+    "device_time": "2026-11-16T08:17:00Z",
+    "received": "2026-11-16T08:27:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R72",
+    "device": "D1",
+    "device_time": "2026-11-16T08:18:00Z",
+    "received": "2026-11-16T08:28:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R73",
+    "device": "D2",
+    "device_time": "2026-11-16T08:18:00Z",
+    "received": "2026-11-16T08:28:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R74",
+    "device": "D3",
+    "device_time": "2026-11-16T08:18:00Z",
+    "received": "2026-11-16T08:28:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R75",
+    "device": "D4",
+    "device_time": "2026-11-16T08:18:00Z",
+    "received": "2026-11-16T08:28:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R76",
+    "device": "D1",
+    "device_time": "2026-11-16T08:19:00Z",
+    "received": "2026-11-16T08:29:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R77",
+    "device": "D2",
+    "device_time": "2026-11-16T08:19:00Z",
+    "received": "2026-11-16T08:29:00Z",
+    "value": null
+  },
+  {
+    "id": "R78",
+    "device": "D3",
+    "device_time": "2026-11-16T08:19:00Z",
+    "received": "2026-11-16T08:29:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R79",
+    "device": "D4",
+    "device_time": "2026-11-16T08:19:00Z",
+    "received": "2026-11-16T08:29:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R80",
+    "device": "D1",
+    "device_time": "2026-11-16T08:20:00Z",
+    "received": "2026-11-16T08:30:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R81",
+    "device": "D2",
+    "device_time": "2026-11-16T08:20:00Z",
+    "received": "2026-11-16T08:30:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R82",
+    "device": "D3",
+    "device_time": "2026-11-16T08:20:00Z",
+    "received": "2026-11-16T08:30:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R83",
+    "device": "D4",
+    "device_time": "2026-11-16T08:20:00Z",
+    "received": "2026-11-16T08:30:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R84",
+    "device": "D1",
+    "device_time": "2026-11-16T08:21:00Z",
+    "received": "2026-11-16T08:31:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R85",
+    "device": "D2",
+    "device_time": "2026-11-16T08:21:00Z",
+    "received": "2026-11-16T08:31:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R86",
+    "device": "D3",
+    "device_time": "2026-11-16T08:21:00Z",
+    "received": "2026-11-16T08:31:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R87",
+    "device": "D4",
+    "device_time": "2026-11-16T08:21:00Z",
+    "received": "2026-11-16T08:31:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R88",
+    "device": "D1",
+    "device_time": "2026-11-16T08:22:00Z",
+    "received": "2026-11-16T08:32:00Z",
+    "value": null
+  },
+  {
+    "id": "R89",
+    "device": "D2",
+    "device_time": "2026-11-16T08:22:00Z",
+    "received": "2026-11-16T08:32:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R90",
+    "device": "D3",
+    "device_time": "2026-11-16T08:22:00Z",
+    "received": "2026-11-16T08:32:00Z",
+    "value": 0.2
+  },
+  {
+    "id": "R91",
+    "device": "D4",
+    "device_time": "2026-11-16T08:22:00Z",
+    "received": "2026-11-16T08:32:00Z",
+    "value": 0.28
+  },
+  {
+    "id": "R92",
+    "device": "D1",
+    "device_time": "2026-11-16T08:23:00Z",
+    "received": "2026-11-16T08:33:00Z",
+    "value": 0.36
+  },
+  {
+    "id": "R93",
+    "device": "D2",
+    "device_time": "2026-11-16T08:23:00Z",
+    "received": "2026-11-16T08:33:00Z",
+    "value": 0.44
+  },
+  {
+    "id": "R94",
+    "device": "D3",
+    "device_time": "2026-11-16T08:23:00Z",
+    "received": "2026-11-16T08:33:00Z",
+    "value": 0.52
+  },
+  {
+    "id": "R95",
+    "device": "D4",
+    "device_time": "2026-11-16T08:23:00Z",
+    "received": "2026-11-16T08:33:00Z",
+    "value": 0.6
+  },
+  {
+    "id": "R96",
+    "device": "D1",
+    "device_time": "2026-11-16T08:24:00Z",
+    "received": "2026-11-16T08:34:00Z",
+    "value": 0.68
+  },
+  {
+    "id": "R97",
+    "device": "D2",
+    "device_time": "2026-11-16T08:24:00Z",
+    "received": "2026-11-16T08:34:00Z",
+    "value": 0.76
+  },
+  {
+    "id": "R98",
+    "device": "D3",
+    "device_time": "2026-11-16T08:24:00Z",
+    "received": "2026-11-16T08:34:00Z",
+    "value": 0.84
+  },
+  {
+    "id": "R99",
+    "device": "D4",
+    "device_time": "2026-11-16T08:24:00Z",
+    "received": "2026-11-16T08:34:00Z",
+    "value": null
+  }
+]

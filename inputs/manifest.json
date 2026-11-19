@@ -1,0 +1,13 @@
+{
+  "files": {
+    "households.json": "34fbef0fccf0e3d563549e5be530de70ebe969ffc570323e64a8149ab08c19e9",
+    "devices.json": "eabf29e37d1412b6fd445d2f2e1b6ac683ac76d87bf400f96fa282461afc0422",
+    "readings.json": "f5d9d0c87aff27618b19a797e1258d10b88c986c9c27ec4f96e8e1db4b14d9b2",
+    "outages.json": "3d1f41242cd5d9b0c290c30f0956e9c037465968dd51af2625b59659530a971d",
+    "consent.json": "1d0055b0c50beca4c32408f545e363b91a716612547854aa69cc669cafb49f3e",
+    "policy.json": "86fe4fe227805ee34a43900ea931992444f964042fdd0c68539a5c75c5e77be6",
+    "staff.json": "1184905f80005d15a6a0f657f3d27859cee5dc7627da895077f57e4d86500561",
+    "schema.json": "c14bfecb15ea65daac32dff38bc360f8d006fd0c9f237b0318b3ab43010d2101"
+  },
+  "synthetic": true
+}

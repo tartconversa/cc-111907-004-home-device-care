@@ -1,0 +1,23 @@
+[
+  {
+    "household": "F1",
+    "contact_start": 8,
+    "contact_end": 12,
+    "daily_limit": 1,
+    "region": "north"
+  },
+  {
+    "household": "F2",
+    "contact_start": 10,
+    "contact_end": 18,
+    "daily_limit": 2,
+    "region": "north"
+  },
+  {
+    "household": "F3",
+    "contact_start": 8,
+    "contact_end": 16,
+    "daily_limit": 1,
+    "region": "south"
+  }
+]

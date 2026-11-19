@@ -1,0 +1,24 @@
+[
+  {
+    "version": "P1",
+    "effective": "2026-10-20T00:00:00Z",
+    "metric": "activity",
+    "window_minutes": 15,
+    "min_samples": 3,
+    "lower": 0.4,
+    "urgent_below": 0.25,
+    "followup_minutes": 240,
+    "urgent_minutes": 60
+  },
+  {
+    "version": "P2",
+    "effective": "2026-11-17T00:00:00Z",
+    "metric": "activity",
+    "window_minutes": 20,
+    "min_samples": 4,
+    "lower": 0.42,
+    "urgent_below": 0.25,
+    "followup_minutes": 240,
+    "urgent_minutes": 60
+  }
+]

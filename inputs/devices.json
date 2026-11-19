@@ -1,0 +1,42 @@
+[
+  {
+    "device": "D1",
+    "household": "F1",
+    "metric": "activity",
+    "scale": 1,
+    "offset": 0,
+    "clock_minutes": 0,
+    "valid_from": "2026-10-20T00:00:00Z",
+    "valid_to": "2026-12-19T00:00:00Z"
+  },
+  {
+    "device": "D2",
+    "household": "F1",
+    "metric": "activity",
+    "scale": 0.9,
+    "offset": 0.05,
+    "clock_minutes": -3,
+    "valid_from": "2026-10-20T00:00:00Z",
+    "valid_to": "2026-12-19T00:00:00Z"
+  },
+  {
+    "device": "D3",
+    "household": "F2",
+    "metric": "activity",
+    "scale": 1,
+    "offset": 0,
+    "clock_minutes": 2,
+    "valid_from": "2026-10-20T00:00:00Z",
+    "valid_to": "2026-12-19T00:00:00Z"
+  },
+  {
+    "device": "D4",
+    "household": "F3",
+    "metric": "activity",
+    "scale": 1,
+    "offset": 0,
+    "clock_minutes": 0,
+    "valid_from": "2026-10-20T00:00:00Z",
+    "valid_to": "2026-12-19T00:00:00Z"
+  }
+]
