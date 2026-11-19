@@ -1,0 +1,3 @@
+followup_id,household,alert_ref,action,occurred_utc,staff
+f1,h-1,a-1,reviewed-no-contact,2026-11-18T08:20:00Z,s-1
+f2,h-2,a-2,contact-completed,2026-11-18T09:00:00Z,s-2
